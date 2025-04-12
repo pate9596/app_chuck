@@ -30,7 +30,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  String data = 'Cargando...';
+  String data = 'Cargando..';
 
   @override
   void initState() {
